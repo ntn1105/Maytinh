@@ -1,5 +1,5 @@
 $i=1
-$num=2
+$num=11
 while $i<= $num do
     puts("test#$i")
     system("ruby test#$i.rb")
